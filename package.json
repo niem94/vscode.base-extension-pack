@@ -1,0 +1,27 @@
+{
+    "name": "base-extension-pack",
+    "publisher": "niem94",
+    "displayName": "Base Extension Pack",
+    "description": "A collection of useful extensions for all workflows.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-danish",
+        "ms-azuretools.vscode-docker",
+        "grapecity.gc-excelviewer",
+        "github.github-vscode-theme",
+        "ms-vsliveshare.vsliveshare-pack",
+        "pkief.material-icon-theme",
+        "humao.rest-client",
+        "tomoki1207.pdf",
+        "redhat.vscode-xml",
+        "redhat.vscode-yaml"
+    ]
+}
