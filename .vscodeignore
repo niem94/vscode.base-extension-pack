@@ -2,3 +2,4 @@
 .vscode-test/**
 .gitignore
 .github
+base-extension-pack.code-workspace
