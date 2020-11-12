@@ -3,7 +3,12 @@
     "publisher": "niem94",
     "displayName": "Base Extension Pack",
     "description": "A collection of useful extensions for all workflows.",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "icon": "resources/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/niem94/vscode.base-extension-pack"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
