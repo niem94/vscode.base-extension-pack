@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Base Extension Pack",
     "description": "A collection of useful extensions for all workflows.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -18,7 +18,6 @@
     "extensionPack": [
         "aaron-bond.better-comments",
         "streetsidesoftware.code-spell-checker",
-        "streetsidesoftware.code-spell-checker-danish",
         "ms-azuretools.vscode-docker",
         "grapecity.gc-excelviewer",
         "github.github-vscode-theme",
