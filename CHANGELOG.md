@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.7] - 2020-11-16
+
+- New icon added
+
 ## [0.0.6] - 2020-11-16
 
 - Added Project Manager
