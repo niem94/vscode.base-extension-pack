@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.6] - 2020-11-16
+
+- Added Project Manager
+
 ## [0.0.5] - 2020-11-13
 
 - Added Sort JSON Object, as it seems fitting for a base functionality in an IDE.
