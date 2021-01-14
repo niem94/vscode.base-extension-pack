@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.0] - 2020-01-14
+
+- Added XML Tools primarily for formatting XML files
+
 ## [0.0.7] - 2020-11-16
 
 - New icon added
