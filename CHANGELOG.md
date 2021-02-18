@@ -1,10 +1,14 @@
 # Change Log
 
-## [1.0.1] - 2020-02-18
+## [1.0.2] - 2021-02-18
+
+- Added Luna Paint — Raster Image Editor, to make VSCode able to edit images on disk (basically built-in paint)
+
+## [1.0.1] - 2021-02-18
 
 - Removed XML Tools as it had overlapping features with Redhat XML
 
-## [1.0.0] - 2020-01-14
+## [1.0.0] - 2021-01-14
 
 - Added XML Tools primarily for formatting XML files
 

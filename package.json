@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Base Extension Pack",
     "description": "A collection of useful extensions for all workflows.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -28,6 +28,7 @@
         "redhat.vscode-xml",
         "redhat.vscode-yaml",
         "richie5um2.vscode-sort-json",
-        "alefragnani.project-manager"
+        "alefragnani.project-manager",
+        "tyriar.luna-paint"
     ]
 }
