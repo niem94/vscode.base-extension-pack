@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.1] - 2020-02-18
+
+- Removed XML Tools as it had overlapping features with Redhat XML
+
 ## [1.0.0] - 2020-01-14
 
 - Added XML Tools primarily for formatting XML files

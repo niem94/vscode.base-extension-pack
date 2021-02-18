@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Base Extension Pack",
     "description": "A collection of useful extensions for all workflows.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -26,7 +26,6 @@
         "humao.rest-client",
         "tomoki1207.pdf",
         "redhat.vscode-xml",
-        "dotjoshjohnson.xml",
         "redhat.vscode-yaml",
         "richie5um2.vscode-sort-json",
         "alefragnani.project-manager"
