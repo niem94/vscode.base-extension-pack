@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.3] - 2021-02-18
+
+- Updated icon
+
 ## [1.0.2] - 2021-02-18
 
 - Added Luna Paint — Raster Image Editor, to make VSCode able to edit images on disk (basically built-in paint)
