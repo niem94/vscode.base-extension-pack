@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.4] - 2021-05-14
+
+- Removed project manager, as i rarely used it.
+
 ## [1.0.3] - 2021-02-18
 
 - Updated icon
