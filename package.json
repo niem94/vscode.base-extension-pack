@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Base Extension Pack",
     "description": "A collection of useful extensions for all workflows.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
