@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Base Extension Pack",
     "description": "A collection of useful extensions for all workflows.",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -16,6 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "adpyke.codesnap",
         "aaron-bond.better-comments",
         "streetsidesoftware.code-spell-checker",
         "ms-azuretools.vscode-docker",

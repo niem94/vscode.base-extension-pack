@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.5] - 2021-06-28
+
+- Added codesnap to take beautiful images of code
+
 ## [1.0.4] - 2021-05-14
 
 - Removed project manager, as i rarely used it.
