@@ -1,4 +1,4 @@
-# Change Log
+# Changelog
 
 ## [1.0.5] - 2021-06-28
 
